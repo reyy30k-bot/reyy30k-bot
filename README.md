@@ -1,4 +1,7 @@
-![Welcome GIF](https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+## Let Me Introduce Myself
+## My Name Is Raihan Ramadhani
+
+![Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ![Raihan Ramadhan](https://i.imgur.com/fHBQ3Jq.png)
 
