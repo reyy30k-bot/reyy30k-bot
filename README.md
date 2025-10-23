@@ -9,9 +9,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats & Streak
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=reyy30k-bot&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=reyy30k-bot&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyy30k-bot&layout=compact&theme=radical)
 
 ## 🌐 About Me
 🔭 Currently building web projects & backend systems  
