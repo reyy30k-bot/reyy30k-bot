@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to my GitHub 👾
 
-<!--
-**reyy30k-bot/reyy30k-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cyberdev](https://i.imgur.com/your-image-link.png)
 
-Here are some ideas to get you started:
+## 💻 My Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats & Streak
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+## 🌐 About Me
+🔭 Currently building web projects & backend systems  
+🌱 Learning more about TypeScript and networking  
+🎮 Love exploring pixel art and retro computing aesthetics  
+🧠 Always up for solving complex bugs  
+
+> “Code, fix, repeat — until perfection.”
