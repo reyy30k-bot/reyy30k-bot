@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👾
+![Welcome GIF](https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ![Raihan Ramadhan](https://i.imgur.com/fHBQ3Jq.png)
 
